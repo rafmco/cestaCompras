@@ -1,2 +1,2 @@
-# cestaCompras
-React Native: criando um app
+# Cesta de Compras
+Alura -> React Native: criando um app
